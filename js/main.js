@@ -1,6 +1,6 @@
 $("#jsGrid").jsGrid({
-    width: "auto",
-    height: "auto",
+    width: "100%",
+    height: "100%",
  
     filtering: true,
     editing: true,
