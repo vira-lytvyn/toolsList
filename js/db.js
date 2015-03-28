@@ -82,6 +82,42 @@
             "Class": 8,
             "Used": true,
             "Mark": 9
+        },
+        {
+            "Name": "TDD(Test Driven Development)",
+            "Website": "",
+            "Class": 5,
+            "Used": false,
+            "Mark": 0
+        },
+        {
+            "Name": "BDD(Behavior Driven Development)",
+            "Website": "",
+            "Class": 5,
+            "Used": false,
+            "Mark": 0
+        },
+        {
+            "Name": "Pair programming",
+            "Website": "",
+            "Class": 5,
+            "Used": false,
+            "Mark": 0
+        },
+        {
+            "Name": "Greddit",
+            "Website": "",
+            "Class": 4,
+            "Used": false,
+            "Mark": 0
+        },
+        {
+            "Name": "StealJS",
+            "Website": "",
+            "Class": 0,
+            "Used": false,
+            "Mark": 0,
+            "ShortDescription": "Works with ES6, CommonJS, AMD, CSS, LESS and more. Focuses on build optimization, progressive loading, and multi-app building."
         }
     ];
 
