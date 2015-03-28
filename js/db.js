@@ -8,7 +8,8 @@
                     && (!filter.Mark || tool.Mark === filter.Mark)
                     && (!filter.Website || tool.Website.indexOf(filter.Website) > -1)
                     && (!filter.Class || tool.Class === filter.Class)
-                    && (filter.Used === undefined || tool.Used === filter.Used);
+                    && (filter.Used === undefined || tool.Used === filter.Used)
+                    && (!filter.ShortDescription || tool.ShortDescription.indexOf(filter.ShortDescription) > -1);
             });
         },
 
